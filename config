@@ -1,7 +1,0 @@
-homeassistant:
-  latitude: 35.6414
-  longitude: 117.8038
-  elevation: 747
-  unit_system: metric
-  time_zone: America/Los_Angeles
-  name: LAX
